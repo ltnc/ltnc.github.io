@@ -2032,29 +2032,6 @@ body {
 .cid-qHnm0FYBqm .progress_value span {
   padding-left: 30px;
 }
-.cid-qHA1xjgCQX {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
-}
-.cid-qHA1xjgCQX [class^="socicon-"]:before,
-.cid-qHA1xjgCQX [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-.cid-qHA1xjgCQX .btn-social {
-  border-color: #149dcc;
-}
-.cid-qHA1xjgCQX .btn-social:hover {
-  background: #149dcc;
-}
-.cid-qHA1xjgCQX .btn-social:hover i.socicon {
-  color: #ffffff !important;
-}
-@media (max-width: 767px) {
-  .cid-qHA1xjgCQX .btn {
-    font-size: 20px !important;
-  }
-}
 .cid-qHno2cBzRS {
   padding-top: 90px;
   padding-bottom: 90px;
