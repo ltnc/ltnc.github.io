@@ -3193,9 +3193,6 @@ body {
 .cid-qHmZSV368k .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qHu0lhUoy3 {
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
 .cid-qHu0y0sZ6G {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -3203,6 +3200,10 @@ body {
 }
 .cid-qHu0y0sZ6G .mbr-text {
   color: #767676;
+  text-align: center;
+}
+.cid-qHu0y0sZ6G .mbr-text DIV {
+  text-align: center;
 }
 .cid-qHmZSV368k .navbar {
   padding: .5rem 0;
@@ -3596,7 +3597,7 @@ body {
 .cid-qHologzHDf {
   padding-top: 45px;
   padding-bottom: 0px;
-  background-color: #c1c1c1;
+  background-color: #c4bc3b;
 }
 .cid-qHologzHDf .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -3620,7 +3621,7 @@ body {
   width: 100%;
   height: 100%;
   background: #f7ed4a;
-  background: linear-gradient(to left, #f7ed4a, #cccccc) !important;
+  background: linear-gradient(to left, #f7ed4a, #f9f295) !important;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -3650,7 +3651,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #f7ed4a !important;
-  background: linear-gradient(to left, #f7ed4a, #cccccc) !important;
+  background: linear-gradient(to left, #f7ed4a, #f9f295) !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
