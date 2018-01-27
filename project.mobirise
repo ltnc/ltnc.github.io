@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.ltnc.ml",
-    "currentPage": "violenta.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1127,13 +1127,13 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 0,
-            "sound": "https://soundcloud.com/am-channel-181742390/sets/www-ltnc-ml",
+            "sound": "https://soundcloud.com/am-channel-181742390/sets/newltnc-ml",
             "autoplay": true,
             "fullWidth": false,
             "bgColor": "#c1c1c1"
           },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F431017535&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F431017535",
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F433566051&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F433566051",
           "alias": "soundcloud",
           "_tags": [
             "Extension"
