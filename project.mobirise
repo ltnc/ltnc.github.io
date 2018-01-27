@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.ltnc.ml",
-    "currentPage": "index.html",
+    "currentPage": "violenta.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6795,9 +6795,9 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-26-2000x1333.jpg",
                 "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
@@ -6813,8 +6813,8 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-34-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
-                "showTitle": true,
+                "showText": false,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
@@ -6828,7 +6828,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-36-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -6864,7 +6864,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-42-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
